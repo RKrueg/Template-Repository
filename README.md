@@ -23,6 +23,7 @@
 * _Starting a development server with $ npm run start_
 * _Linting JS files in the src folder with $ npm run lint_
 * _Running tests with Jest using $ npm run test_
+* _Make our environmental variables available with npm install dotenv-webpack@2.0.0 --save-dev_
 
 ## Known Bugs
 
